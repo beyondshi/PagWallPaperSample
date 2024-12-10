@@ -1,0 +1,4 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/app_name"
+    android:settingsActivity="com.tencent.libpag.sample.libpag_sample.MainActivity"
+    android:thumbnail="@mipmap/ic_launcher" />
